@@ -1,0 +1,7 @@
+v1=float(input("digite o valor de v1"))
+v2=float(input("digite o valor de v2"))
+soma=(v1+v2)
+subtracao=(v1-v2)
+divisao=(v1/v2)
+multiplicacao=(v1*v2)
+print(soma,subtracao,divisao,multiplicacao)
